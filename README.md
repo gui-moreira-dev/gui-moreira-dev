@@ -1,4 +1,4 @@
-### Olá, Eu sou O Gui Moreira!!! 😉🤙
+### Olá, Eu sou o Gui Moreira!!! 😉🤙
 
 <div align="left">
   <a href="https://github.com/gui-moreira-dev">
