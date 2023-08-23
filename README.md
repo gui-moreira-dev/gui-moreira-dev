@@ -1,10 +1,10 @@
 ### Olá, Eu sou o Gui Moreira!!! 😉🤙
 
-<div align="left">
+<!--  <div align="left">
   <a href="https://github.com/gui-moreira-dev">
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gui-moreira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-moreira-dev&layout=compact&theme=dark"/>
-</div>
+</div> -->
   
  <div style="display: inline_block"><br>
    <p>Tecnologias que mais uso 👇👇</p>
